@@ -1,0 +1,21 @@
+p{
+  color:olivedrab;
+  font-weight: bold;
+}
+
+h3{
+  color:darkslategray;
+}
+
+img{
+  width: 150px;
+}
+
+body {
+    text-align: center;
+    background-image: url('https://media.istockphoto.com/id/1263403120/vector/old-antique-paper-parchment-scroll-over-white.jpg?s=612x612&w=0&k=20&c=qE3fHa-2nmSp-24ITT17W-XTZep5D7QRdtsvO8q0aso=');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: 700px;
+    color: darkblue;
+}
